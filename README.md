@@ -1,4 +1,8 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+"# LearnRedux https://segmentfault.com/a/1190000011474522?utm_source=tag-newest" 
+
 
 ## Available Scripts
 
